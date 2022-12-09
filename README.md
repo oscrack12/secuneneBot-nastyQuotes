@@ -21,5 +21,11 @@ Con la ayuda de Cron, se podra especificar cada cuando realizara esta acción
 
 ![imagen](https://user-images.githubusercontent.com/44992155/206626020-a8695c55-030a-4993-8d15-3199e8583fac.png)
 
+La cuenta en cuestion
+
+https://twitter.com/secunene
+
+![imagen](https://user-images.githubusercontent.com/44992155/206628713-0651ab5a-9cce-49ef-97ce-7402ea9fb5ed.png)
+
 
 --Oscar
